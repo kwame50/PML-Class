@@ -1,6 +1,7 @@
 ---
 title: "Practical Machine Learning Project October 2015"
 output:
+  pdf_document: default
   html_document:
     fig_caption: yes
 ---
